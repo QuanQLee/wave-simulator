@@ -1,0 +1,34 @@
+[
+    {
+        "origin": [
+            0,
+            350
+        ],
+        "speed": -1,
+        "frequency": 1.04,
+        "amplitude": 92,
+        "phase": 0,
+        "color": [
+            0,
+            255,
+            255
+        ],
+        "waveform": "Sine"
+    },
+    {
+        "origin": [
+            1000,
+            350
+        ],
+        "speed": -2,
+        "frequency": 1,
+        "amplitude": 50,
+        "phase": 0,
+        "color": [
+            255,
+            0,
+            255
+        ],
+        "waveform": "Sine"
+    }
+]
